@@ -1,0 +1,37 @@
+body {
+  background-color: beige
+}
+ nav a {
+    color: #c31d70;
+    letter-spacing: 0.1px;
+    text-align: center;
+    text-decoration: none;
+    }
+
+h1, h2 {
+font-family: "Comic Sans MS", "Comic Sans", cursive;
+  color: yellowgreen;
+  letter-spacing: 3px;
+  font-size: 2.5em;
+  text-align: center;
+}  
+p {
+font-family: Arial, Helvetica, sans-serif;
+color: purple;
+  letter-spacing: 2px;
+  padding: 10px;
+  leftine-height: 5px;
+}
+
+/*Pick two fonts from google fonts and change your fonts, one font for the headings and one font for everything else on the page bonus points if you can do this with only two lines of CSS code*/
+
+
+/* Style the nav - change the colour from ugly blue, add some letter spacing, center the links, remove the underline*/
+
+
+
+/*Add letter spacing to the headings and change the font size */
+
+
+
+/*Add line height to the paragraphs*/ 
